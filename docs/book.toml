@@ -8,7 +8,7 @@ description = "https://github.com/localLore/laer-image-concept-cube141"
 build-dir = "book"
 
 [output.html]
-mathjax-support = false
+mathjax-support = true
 git-repository-url = "https://github.com/localLore/laer-image-concept-cube141"
 site-url = "/laer-image-concept-cube141/"
 
