@@ -1,0 +1,11 @@
+# Rust 源码按 UTF-8 处理 diff
+*.rs text diff=rust
+
+# Cargo.lock 按二进制处理，避免合并冲突时产生无意义的 diff
+Cargo.lock binary
+
+# toml / yaml / json 统一换行符
+*.toml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf

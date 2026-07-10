@@ -1,0 +1,23 @@
+[package]
+name = "rust-project"
+version = "0.0.0"
+edition = "2024"
+description = "TODO: 填写项目描述"
+authors = ["TODO: 填写作者"]
+license = "MIT"
+repository = "https://github.com/TODO/rust-project"
+
+[dependencies]
+
+[dev-dependencies]
+
+[[example]]
+name = "demo"
+
+[[test]]
+name = "integration_test"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

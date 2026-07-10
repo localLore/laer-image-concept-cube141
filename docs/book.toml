@@ -1,0 +1,19 @@
+[book]
+title = "rust-project 模板说明"
+authors = ["TODO: 填写作者"]
+language = "zh-CN"
+description = "rust-project 模板的组成与使用说明"
+
+[build]
+build-dir = "book"
+
+[output.html]
+mathjax-support = false
+git-repository-url = "https://github.com/TODO/rust-project"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/TODO/rust-project/edit/main/docs/src/{path}"
+site-url = "/rust-project/"
+
+[output.html.fold]
+enable = true
+level = 1
