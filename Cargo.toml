@@ -1,15 +1,16 @@
 [package]
-name = "rust-project"
-version = "0.0.0"
+name = "laer-image-concept-cube141"
+version = "0.0.1"
 edition = "2024"
-description = "TODO: 填写项目描述"
-authors = ["TODO: 填写作者"]
+description = "special laer image with 141 pixels"
+authors = ["FleetingLore <Macro__9@outlook.com>"]
 license = "MIT"
-repository = "https://github.com/TODO/rust-project"
+repository = "https://github.com/localLore/laer-image-concept-cube141"
 
 [dependencies]
 
 [dev-dependencies]
+code-steps = "0.5.0"
 
 [[example]]
 name = "demo"

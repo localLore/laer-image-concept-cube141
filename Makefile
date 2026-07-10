@@ -27,7 +27,7 @@ clean:
 	cargo clean
 	rm -rf docs/book
 
-example_%:
+$(addprefix example_, $(EXAMPLES)): example_%:
 	cargo run --example $*
 
 example: $(addprefix example_, $(EXAMPLES))

@@ -6,6 +6,10 @@
 //! cargo run --example demo
 //! ```
 
+use code_steps::step;
+
 fn main() {
-    println!("This is an example.");
+    step!["example" {
+        println!("This is an example.");
+    }]
 }

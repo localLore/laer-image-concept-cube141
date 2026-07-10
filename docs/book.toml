@@ -1,18 +1,16 @@
 [book]
-title = "rust-project 模板说明"
-authors = ["TODO: 填写作者"]
+title = "Laer Inage Concept Cube 141"
+authors = ["FleetingLore <Macro__9@outlook.com>"]
 language = "zh-CN"
-description = "rust-project 模板的组成与使用说明"
+description = "https://github.com/localLore/laer-image-concept-cube141"
 
 [build]
 build-dir = "book"
 
 [output.html]
 mathjax-support = false
-git-repository-url = "https://github.com/TODO/rust-project"
-git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/TODO/rust-project/edit/main/docs/src/{path}"
-site-url = "/rust-project/"
+git-repository-url = "https://github.com/localLore/laer-image-concept-cube141"
+site-url = "/laer-image-concept-cube141/"
 
 [output.html.fold]
 enable = true
