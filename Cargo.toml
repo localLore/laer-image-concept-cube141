@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/localLore/laer-image-concept-cube141"
 
 [dependencies]
-laer-image-concept = "0.1.0"
+laer-image-concept = "0.1.1"
 
 [dev-dependencies]
 code-steps = "0.5.0"
