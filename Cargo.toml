@@ -1,6 +1,6 @@
 [package]
 name = "laer-image-concept-cube141"
-version = "0.0.1"
+version = "0.1.0"
 edition = "2024"
 description = "special laer image with 141 pixels"
 authors = ["FleetingLore <Macro__9@outlook.com>"]
