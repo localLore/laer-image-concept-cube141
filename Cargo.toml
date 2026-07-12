@@ -1,6 +1,6 @@
 [package]
 name = "laer-image-concept-cube141"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "special laer image with 141 pixels"
 authors = ["FleetingLore <Macro__9@outlook.com>"]
@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/localLore/laer-image-concept-cube141"
 
 [dependencies]
-laer-image-concept = "0.1.1"
+laer-image-concept = "0.1.2"
 
 [dev-dependencies]
 code-steps = "0.5.0"
